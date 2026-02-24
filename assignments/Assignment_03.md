@@ -1,1 +1,0 @@
-Me gustaría desempeñar el rol de responsable en bases de datos del proyecto, encargándome de definir correctamente la base de datos y asegurando la integridad y consistencia de los mismos, adicionalmente podría apoyar en las pruebas y control de calidad de cada avance del proyecto
