@@ -1,5 +1,0 @@
-
-#JOHAN MUÑOZ 
-Me gustaría tener un rol organizativo asignando tareas y viendo que todo el proyecto esté fluyendo de manera correcta y también un rol de desarrollo de backend en el curso.
-Tengo experiencia gestionando grupos de trabajo y también habilidades que facilitan en el desarrollo de un buen backend.
-mDebo de mejorar en gran medida el manejo de mis tiempos para poder hacer efectiva de la mejor manera todas las entregas de los cursos y poder dejarlas con un buen colchón de tiempo.
