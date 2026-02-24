@@ -3,7 +3,7 @@
 This repository contains all non-code artifacts related to the project.  
 It centralizes documentation, assignments, diagrams, SQL scripts, and deliverables.
 
----
+```
 
 ## 📁 Repository Structure
 ├── .gitignore
@@ -27,3 +27,5 @@ It centralizes documentation, assignments, diagrams, SQL scripts, and deliverabl
     ├── Workshop__01.pdf
     ├── Workshop__<##>.pdf
     └── ...
+
+```
